@@ -58,3 +58,8 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+.vsconfig
+/Unity/WTF_UKU_Test/Library
+/Unity/WTF_UKU_Test/Temp
+/Unity/WTF_UKU_Test/Logs
+/Unity/WTF_UKU_Test/UserSettings
